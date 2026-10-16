@@ -1,0 +1,115 @@
+========================================
+    CyberShield V1.0
+========================================
+Target IP: 192.168.1.64
+Starting Port: 1
+Ending Port: 100
+Scanning Ports...
+[-] Port 1 is CLOSED
+[-] Port 2 is CLOSED
+[-] Port 3 is CLOSED
+[-] Port 4 is CLOSED
+[-] Port 5 is CLOSED
+[-] Port 6 is CLOSED
+[-] Port 7 is CLOSED
+[-] Port 8 is CLOSED
+[-] Port 9 is CLOSED
+[-] Port 10 is CLOSED
+[-] Port 11 is CLOSED
+[-] Port 12 is CLOSED
+[-] Port 13 is CLOSED
+[-] Port 14 is CLOSED
+[-] Port 15 is CLOSED
+[-] Port 16 is CLOSED
+[-] Port 17 is CLOSED
+[-] Port 18 is CLOSED
+[-] Port 19 is CLOSED
+[-] Port 20 is CLOSED
+[+] Port 21 is OPEN (FTP)
+[+] Port 22 is OPEN (SSH)
+[-] Port 23 is CLOSED
+[-] Port 24 is CLOSED
+[-] Port 25 is CLOSED
+[-] Port 26 is CLOSED
+[-] Port 27 is CLOSED
+[-] Port 28 is CLOSED
+[-] Port 29 is CLOSED
+[-] Port 30 is CLOSED
+[-] Port 31 is CLOSED
+[-] Port 32 is CLOSED
+[-] Port 33 is CLOSED
+[-] Port 34 is CLOSED
+[-] Port 35 is CLOSED
+[-] Port 36 is CLOSED
+[-] Port 37 is CLOSED
+[-] Port 38 is CLOSED
+[-] Port 39 is CLOSED
+[-] Port 40 is CLOSED
+[-] Port 41 is CLOSED
+[-] Port 42 is CLOSED
+[-] Port 43 is CLOSED
+[-] Port 44 is CLOSED
+[-] Port 45 is CLOSED
+[-] Port 46 is CLOSED
+[-] Port 47 is CLOSED
+[-] Port 48 is CLOSED
+[-] Port 49 is CLOSED
+[-] Port 50 is CLOSED
+[-] Port 51 is CLOSED
+[-] Port 52 is CLOSED
+[-] Port 53 is CLOSED
+[-] Port 54 is CLOSED
+[-] Port 55 is CLOSED
+[-] Port 56 is CLOSED
+[-] Port 57 is CLOSED
+[-] Port 58 is CLOSED
+[-] Port 59 is CLOSED
+[-] Port 60 is CLOSED
+[-] Port 61 is CLOSED
+[-] Port 62 is CLOSED
+[-] Port 63 is CLOSED
+[-] Port 64 is CLOSED
+[-] Port 65 is CLOSED
+[-] Port 66 is CLOSED
+[-] Port 67 is CLOSED
+[-] Port 68 is CLOSED
+[-] Port 69 is CLOSED
+[-] Port 70 is CLOSED
+[-] Port 71 is CLOSED
+[-] Port 72 is CLOSED
+[-] Port 73 is CLOSED
+[-] Port 74 is CLOSED
+[-] Port 75 is CLOSED
+[-] Port 76 is CLOSED
+[-] Port 77 is CLOSED
+[-] Port 78 is CLOSED
+[-] Port 79 is CLOSED
+[+] Port 80 is OPEN (HTTP)
+[-] Port 81 is CLOSED
+[-] Port 82 is CLOSED
+[-] Port 83 is CLOSED
+[-] Port 84 is CLOSED
+[-] Port 85 is CLOSED
+[-] Port 86 is CLOSED
+[-] Port 87 is CLOSED
+[-] Port 88 is CLOSED
+[-] Port 89 is CLOSED
+[-] Port 90 is CLOSED
+[-] Port 91 is CLOSED
+[-] Port 92 is CLOSED
+[-] Port 93 is CLOSED
+[-] Port 94 is CLOSED
+[-] Port 95 is CLOSED
+[-] Port 96 is CLOSED
+[-] Port 97 is CLOSED
+[-] Port 98 is CLOSED
+[-] Port 99 is CLOSED
+[-] Port 100 is CLOSED
+========================================
+Scan Completed!
+========================================
+Total Ports Scanned: 100
+Open Ports:          3
+Closed Ports:        97
+Scan Time:           0.06Seconds
+========================================
